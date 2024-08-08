@@ -10,10 +10,10 @@ Dynamic Filtering: The dashboard offers various filters to help users find speci
 
 **Date range selection**
 
-Seat type (All, Business Class, Economy Class, First Class, Premium Economy)
-Traveller type (All, Business, Couple Leisure, Family Leisure, Solo Leisure)
-Aircraft type
-Continent
+1. Seat type (All, Business Class, Economy Class, First Class, Premium Economy)
+2. Traveller type (All, Business, Couple Leisure, Family Leisure, Solo Leisure)
+3. Aircraft type
+4. Continent
 
 **Visual Components:**
 
