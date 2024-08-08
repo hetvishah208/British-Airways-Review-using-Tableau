@@ -17,6 +17,6 @@ Dynamic Filtering: The dashboard offers various filters to help users find speci
 
 **Visual Components:**
 
-**Average Overall Rating By Month:** A line chart showing trends over time.
-**Average Overall Rating By Country:** A world map for geographical analysis.
-**Average Overall Rating By Aircraft:** A bar chart comparing ratings across different aircraft types, including the number of reviews for each.
+1. **Average Overall Rating By Month:** A line chart showing trends over time.
+2. **Average Overall Rating By Country:** A world map for geographical analysis.
+3. **Average Overall Rating By Aircraft:** A bar chart comparing ratings across different aircraft types, including the number of reviews for each.
